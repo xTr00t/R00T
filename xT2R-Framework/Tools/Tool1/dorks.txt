@@ -1,0 +1,13 @@
+index.php?route=product index
+index.php?route=index
+("Mr WordPress on Hello world!")index
+("Comment on Hello world!")index
+("Welcome to WordPress. This is your first post.")index
+("uncategorized")index
+("Comentarios en Hello world!")index
+("uncategorized/hello-world")index
+("/wp/hello-world/")index
+("author/admin")index
+("Just another WordPress site")index
+("category/sin-categoria")index
+("Proudly powered by WordPress")index
